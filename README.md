@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## 🔗 Live Preview
 
-👉 [Visit My Portfolio](https://your-portfolio-url.com)
+👉 [Visit My Portfolio]( https://arulbarath-30.github.io/CODSOFT-2/)
 
 ---
 
