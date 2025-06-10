@@ -1,6 +1,4 @@
-Here’s a **professional and clear `README.md`** for your `CODSOFT-2` GitHub repository that hosts your personal portfolio:
 
----
 
 ### 📄 `README.md`
 
@@ -78,27 +76,3 @@ To deploy manually:
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE) (optional).
-
-````
-
----
-
-### ✅ To Add It to Your Repo:
-
-1. In VS Code terminal:
-   ```bash
-   echo # copy-paste content above here into README.md
-````
-
-2. Then run:
-
-   ```bash
-   git add README.md
-   git commit -m "Add README for portfolio"
-   git push
-   ```
-
-Let me know if you want a **custom banner image** or help adding a **project carousel or animation**!
